@@ -39,6 +39,3 @@ To run this project on your local machine, follow these steps:
 - React Router for client-side routing
 - Bcrypt for password hashing and salting
 
-## License
-
-Contacts is licensed under the MIT License. See the LICENSE file for details.
